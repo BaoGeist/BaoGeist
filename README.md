@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center" style="display: flex; flex-direction: row; justify-content: center;">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BaoGeist" alt="BaoGeist's GitHub stats" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoGeist&size_weight=0&count_weight=1&layout=compact" alt="Top Languages" />
+  </a>
+
+</div>
+
