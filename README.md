@@ -8,7 +8,7 @@
       </td>
       <td>
         <p align="center">
-          <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="500">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoGeist&size_weight=0&count_weight=1&layout=compact" alt="Top Languages"/>
         </p>
       </td>
     </tr>
@@ -25,7 +25,7 @@
       </td>
       <td>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoGeist&size_weight=0&count_weight=1&layout=compact" alt="Top Languages"/>
+          <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400">
         </p>
       </td>
     </tr>
