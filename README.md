@@ -20,7 +20,7 @@
     <tr>
       <td style="padding-right: 20px;">
         <p align="center">
-          <img src="/metrics.plugin.repositories.pinned.svg" alt="Metrics" width="500" />
+          <img src="/metrics.plugin.repositories.pinned.svg" alt="Metrics" width="400" />
         </p>
       </td>
       <td>
