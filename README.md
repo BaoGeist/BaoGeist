@@ -8,7 +8,8 @@
       </td>
       <td>
         <p align="center">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BaoGeist&size_weight=0&count_weight=1&layout=donut-vertical&langs_count=8&hide=Shell,Batchfile" alt="Top Languages"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoGeisty&size_weight=0&count_weight=1&layout=donut-vertical&hide=Shell,Batchfile&langs_count=8" alt="Top Languages"/>
+<!--           <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BaoGeist&size_weight=0&count_weight=1&layout=donut-vertical&langs_count=8&hide=Shell,Batchfile" alt="Top Languages"/> -->
         </p>
       </td>
     </tr>
